@@ -1,0 +1,12 @@
+{
+    "require": {
+        "botman/botman": "^2.5",
+        "botman/driver-web": "^1.5",
+        "symfony/cache": "^5.0"
+    },
+    "autoload": {
+        "classmap": [
+            "conversations"
+        ]
+    }
+}
